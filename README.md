@@ -54,17 +54,7 @@ Figure 02  Encoder 8 * 3
 
 Developed by:Nara Guna Susmitha RegisterNumber:24010204
 
-
-module exp005de(din,a,b,c);
-input[0:7]din;
-output a;
-output b;
-output c;
-assign a=din[4] | din[5] | din[6] | din[7];
-assign b=din[2] | din[3] | din[6] | din[7];
-assign c=din[2] | din[4] | din[6] | din[7];
-endmodule 
-
+![Screenshot 2024-12-04 183721](https://github.com/user-attachments/assets/59b25fb9-8620-4448-8c51-752517b221f8)
 
 */
 
