@@ -71,5 +71,6 @@ endmodule
 ![Screenshot 2024-12-04 140534](https://github.com/user-attachments/assets/3dc8f493-dd0d-4970-923e-d7442911bb72)
 
 **RESULTS**
+
 Thus to implement Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is done successfully.
 
